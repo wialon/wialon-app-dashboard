@@ -1,0 +1,79 @@
+{
+    "deprecated": true,
+    "name": "dashboard",
+    "url_name": "dashboard",
+    "title": "Dashboard",
+    "description": "Dashboard provides overview of fleet KPIs (key performance indicators) in an easy to read real-time user interface to enable instantaneous and informed decisions to be made at a glance.",
+    "author": {
+        "name": ""
+    },
+    "links": {
+        "appstore": "https://itunes.apple.com/us/app/dashboard-for-wialon/id908949014?mt=8"
+    },
+    "dependencies": {
+        "jquery": "1.8.2",
+        "jquery.localisation": "1.1.0",
+        "backbone": "1.1.2",
+        "underscore": "1.6.0",
+        "d3.v3": "3.1.5",
+        "nv.d3": "1.1.15b",
+        "bootstrap": "3.1"
+    },
+    "keywords": [
+        "wialon",
+        "wialon-apps"
+    ],
+    "version": "1.4.9",
+    "build_date": "2026-11-20",
+    "release_date": "2014-03-07",
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/wialon/wialon-app-dashboard/blob/main/LICENSE-MIT"
+        }
+    ],
+    "modules": [
+        "sdk"
+    ],
+    "params": [
+        "Active SID",
+        "Language",
+        "Current user",
+        "Base URL",
+        "Host URL"
+    ],
+    "language": [
+        "en",
+        "ar",
+        "az",
+        "bg",
+        "br",
+        "de",
+        "es",
+        "et",
+        "fa",
+        "fi",
+        "fr",
+        "he",
+        "hr",
+        "hu",
+        "it",
+        "ja",
+        "lt",
+        "ro",
+        "ru",
+        "sk",
+        "uk",
+        "vi"
+    ],
+    "docs": [],
+    "browser": {
+        "ie": "9+",
+        "opera": "10+",
+        "safari": "10+",
+        "chrome": "20+",
+        "firefox": "15+"
+    },
+    "logo": "logo.png",
+    "desc_path": "desc"
+}
